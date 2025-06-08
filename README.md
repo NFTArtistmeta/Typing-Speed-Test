@@ -10,5 +10,3 @@
 python speed_test.py
 ```
 
-## Author
-* Dhritiman
